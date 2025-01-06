@@ -1,0 +1,25 @@
+[{
+"id":1,
+"Image":"../src/assets/new_product1.png.webp",
+"Name":"Thermo Ball Etip Gloves",
+"price":"45$"
+},
+{
+    "id":2,
+    "Image":"../src/assets/new_product2.png.webp",
+    "Name":"Thermo Ball Etip Gloves",
+    "price":"55$"
+    },
+{
+        "id":3,
+        "Image":"../src/assets/new_product3.png.webp",
+        "Name":"Thermo Ball Etip Gloves",
+        "price":"45$"
+        }
+       
+
+
+
+
+
+]
