@@ -97,7 +97,7 @@ function navbarr({ cart, setcart }) {
       <div className='body sticky-top mt-2 bg-white '>
         <Navbar expand="lg" className="border-0 shadow ">
           <Container fluid>
-            <img src="/src/assets/logo.png.webp" alt="TIME>png" onClick={homee} />
+            <img src="../src/assets/logo.png.webp" alt="TIME>png" onClick={homee} />
             <Navbar.Toggle aria-controls="navbarScroll" />
             <Navbar.Collapse id="navbarScroll">
               <Nav
