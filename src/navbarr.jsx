@@ -142,7 +142,7 @@ function navbarr({ cart, setcart }) {
             </div>
           </div>
           <div className="class2 col-md-6 d-md-block d-none">
-            <img src="../src/assets/watch.png.webp" alt="Watch.png" className='img-fluid ms-5' ref={textRef} />
+            <img src="./src/assets/watch.png.webp" alt="Watch.png" className='img-fluid ms-5' ref={textRef} />
           </div>
         </div>
       </div>
@@ -232,7 +232,7 @@ function navbarr({ cart, setcart }) {
       <div className="container-fluid ">
         <div className="row ">
           <div className='fotr col-md-3 order-1'>
-            <img src="../src/assets/logo.png.webp" />
+            <img src="./src/assets/logo.png.webp" />
             <p className='ms-2 mt-3 text-secondary'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Praesentium, commodi cumque! Maiores soluta quas mollitia nulla optio, molestiae sequi esse, quidem, quod animi eveniet. Natus soluta esse quisquam reiciendis libero!</p>
           </div>
           <div className='fot col-md-2 order-2'>

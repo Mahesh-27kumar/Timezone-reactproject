@@ -77,7 +77,7 @@ const shop = ({cart,setcart}) => {
         </Offcanvas.Header>
         <Offcanvas.Body>
 {cart.length ==0 && (<div className='emtycart'>
-  <img src="../src/assets/rb_77594.png" alt="" className='img-fluid'/>
+  <img src="./src/assets/rb_77594.png" alt="" className='img-fluid'/>
   <h1>Your Cart is Empty</h1>
   </div>
 )}
@@ -120,7 +120,6 @@ const shop = ({cart,setcart}) => {
                 <Nav.Link href="" onClick={homee} className='ms-5 home text-dark fs-6'>
                   Home</Nav.Link>
                 <Nav.Link href="#action2" className='ms-5 home text-dark fs-6'onClick={add}>Shop</Nav.Link>
-                <Nav.Link href="#action2" className='ms-5 home text-dark fs-6'>About</Nav.Link>
                 {/* <Dropdown className="dropdown">
                   <Dropdown.Toggle variant="white ms-5 fs-6 mt-1" id="dropdown-basic" >
                     Latest
