@@ -97,7 +97,7 @@ function navbarr({ cart, setcart }) {
       <div className='body sticky-top mt-2 bg-white '>
         <Navbar expand="lg" className="border-0 shadow ">
           <Container fluid>
-            <img src="../src/assets/logo.png.webp" alt="TIME>png" onClick={homee} />
+            <img src="logo.png.webp" alt="TIME>png" onClick={homee} />
             <Navbar.Toggle aria-controls="navbarScroll" />
             <Navbar.Collapse id="navbarScroll">
               <Nav
@@ -142,7 +142,7 @@ function navbarr({ cart, setcart }) {
             </div>
           </div>
           <div className="class2 col-md-6 d-md-block d-none">
-            <img src="./src/assets/watch.png.webp" alt="Watch.png" className='img-fluid ms-5' ref={textRef} />
+            <img src="watch.png.webp" alt="Watch.png" className='img-fluid ms-5' ref={textRef} />
           </div>
         </div>
       </div>
@@ -170,18 +170,18 @@ function navbarr({ cart, setcart }) {
       <div className='container-fluid mt-5 gg border-0 shadow d-md-block d-none' id='2'>
         <div className='row ms-5 '>
           <div className='col-md-4 ms-5 row1'>
-            <img src="../src/assets/grid1.jpeg" alt="" className='img-fluid' />
+            <img src="grid1.jpeg" alt="" className='img-fluid' />
           </div>
           <div className='col-md-3 row2'>
-            <img src="../src/assets/grid2.jpg" alt="" className='img-fluid' />
+            <img src="Grid2.jpg" alt="" className='img-fluid' />
           </div>
           <div className='col-md-3 row3'>
             <div className='container-fluid'>
               <div className='row'>
-                <img src="../src/assets/grid3.jpg" alt="" className='img-fluid' />
+                <img src="grid3.jpg" alt="" className='img-fluid' />
               </div>
               <div className='row mt-4 row4' >
-                <img src="../src/assets/grid4.webp" alt="" className='img-fluid' />
+                <img src="grid4.webp" alt="" className='img-fluid' />
               </div>
             </div>
           </div>

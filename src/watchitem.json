@@ -1,37 +1,37 @@
 [
     {
         "id":4,
-        "Watcimg":"../src/assets/popular1.png.webp",
+        "Watcimg":"popular1.png.webp",
         "Watchname":"Thermo Ball Etip Gloves",
         "Watchprice":55
     },
     {
         "id":5,
-        "Watcimg":"../src/assets/popular2.png.webp",
+        "Watcimg":"popular2.png.webp",
         "Watchname":"Thermo Ball Etip Gloves",
         "Watchprice":55
     },
     {
         "id":6,
-        "Watcimg":"../src/assets/popular3.png.webp",
+        "Watcimg":"popular3.png.webp",
         "Watchname":"Thermo Ball Etip Gloves",
         "Watchprice":55
     },
     {
         "id":7,
-        "Watcimg":"../src/assets/popular4.png.webp",
+        "Watcimg":"popular4.png.webp",
         "Watchname":"Thermo Ball Etip Gloves",
         "Watchprice":55
     },
     {
         "id":8,
-        "Watcimg":"../src/assets/popular5.png.webp",
+        "Watcimg":"popular5.png.webp",
         "Watchname":"Thermo Ball Etip Gloves",
         "Watchprice":55
     },
     {
         "id":9,
-        "Watcimg":"../src/assets/popular6.png.webp",
+        "Watcimg":"popular6.png.webp",
         "Watchname":"Thermo Ball Etip Gloves",
         "Watchprice":55
     }
